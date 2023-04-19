@@ -1,3 +1,4 @@
-# Random-Game
-Pong game using Python's turtle module. 
-Followed tutorial by freecodecamp, https://www.youtube.com/watch?v=XGf2GcyHPhc.
+# Pong!
+
+Remake of the classic pong game using Python's turtle module. 
+
